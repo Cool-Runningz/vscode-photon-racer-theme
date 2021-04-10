@@ -2,7 +2,21 @@
   "name": "photon-racer",
   "displayName": "Photon Racer",
   "description": "Inspired by the Photon Racer theme for Brackets.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "CodeRunnings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cool-Runningz/vscode-photon-racer-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue theme",
+    "photon",
+    "racer",
+    "photon racer",
+    "brackets"
+  ],
   "engines": {
     "vscode": "^1.55.0"
   },

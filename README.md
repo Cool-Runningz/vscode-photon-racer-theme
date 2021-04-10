@@ -1,13 +1,25 @@
-# README
-## This is the README for your extension "photon-racer"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Photon Racer
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Inspired by the similarly titled [theme for Brackets](https://github.com/Brackets-Themes/PhotonRacer), but with my own twist 😎
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Editor View
+
+![Editor view screenshot](/images/photon-racer-editor-view.png)
+
+## JavaScript
+
+![Javascript screenshot](/images/photon-racer-js.png)
+
+## React
+
+![React screenshot](/images/photon-racer-react.png)
+
+## HTML
+
+![HTML screenshot](/images/photon-racer-html.png)
+
+## CSS
+
+![CSS screenshot](/images/photon-racer-css.png)
 
 **Enjoy!**
