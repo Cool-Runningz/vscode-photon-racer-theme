@@ -4,6 +4,7 @@
   "description": "Inspired by the Photon Racer theme for Brackets.",
   "version": "1.0.0",
   "publisher": "CodeRunnings",
+  "icon": "images/marketplace-icon-128-squared.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Cool-Runningz/vscode-photon-racer-theme"
