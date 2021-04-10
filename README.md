@@ -1,6 +1,6 @@
 # Photon Racer
 
-Inspired by the similarly titled [theme for Brackets](https://github.com/Brackets-Themes/PhotonRacer), but with my own twist 😎
+> Inspired by the similarly titled [theme for Brackets](https://github.com/Brackets-Themes/PhotonRacer), but with my own twist 😎
 
 ## Editor View
 
