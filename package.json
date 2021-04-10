@@ -1,0 +1,21 @@
+{
+  "name": "photon-racer",
+  "displayName": "Photon Racer",
+  "description": "Inspired by the Photon Racer theme for Brackets.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Photon Racer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Photon Racer-color-theme.json"
+      }
+    ]
+  }
+}
