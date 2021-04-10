@@ -29,6 +29,13 @@
       }
     },
     {
+      "name": "CSS variables argument",
+      "scope": "variable.argument.css",
+      "settings": {
+        "foreground": "#efbc6b"
+      }
+    },
+    {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
       "settings": {
@@ -1791,8 +1798,8 @@
     "statusBarItem.hoverBackground": "#0108111f",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",
-    "statusBar.noFolderBackground": "#921592",
-    "statusBar.noFolderForeground": "#ffffff",
+    "statusBar.noFolderBackground": "#00d8ff",
+    "statusBar.noFolderForeground": "#000000",
     "statusBarItem.remoteBackground": "#00d8ff",
     "statusBarItem.remoteForeground": "#000000",
     "titleBar.activeBackground": "#161c24",
@@ -1884,8 +1891,8 @@
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#C5C5C5",
     "terminal.selectionBackground": "#4891ff41",
-    "terminalCursor.background": "#cbc8c8",
-    "terminalCursor.foreground": "#000000",
+    "terminalCursor.background": "#000000",
+    "terminalCursor.foreground": "#f2f2f2",
     "terminal.border": "#80808059",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#2472c8",
